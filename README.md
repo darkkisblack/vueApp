@@ -2,6 +2,8 @@
 
 Работа с DataGrid
 
+ССЫЛКА ДЛЯ ПРОСМОТРА ------- https://devext.herokuapp.com/
+
 Использованные технологии: Vue 3, DevExtreme
 
 
